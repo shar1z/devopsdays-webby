@@ -17,7 +17,7 @@ filter:    erb
 
 <% @gold_sponsors = [
 	{ :image => "cloudify.png", :name => "Cloudify by GigaSpaces", :link => "http://getcloudify.org"},
-	{ :image => "librato.png", :name => "Librato Metrics", :link => "https://metrics.librato.com/"},
+	{ :image => "librato.png", :name => "Librato Metrics", :link => "https://metrics.librato.com/?utm_campaign=dev-ops-tel-aviv&utm_content=promotion&utm_medium=event&utm_source=devops-tel-aviv"},
 	{ :image => "chef.png", :name => "Chef", :link => "https://getchef.com/"},
 ]%>
 
